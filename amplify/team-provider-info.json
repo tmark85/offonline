@@ -1,0 +1,15 @@
+{
+    "offonline": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-rtmessageboard-offonline-174522-authRole",
+            "UnauthRoleArn": "arn:aws:iam::299136959586:role/amplify-rtmessageboard-offonline-174522-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::299136959586:role/amplify-rtmessageboard-offonline-174522-authRole",
+            "Region": "eu-west-1",
+            "DeploymentBucketName": "amplify-rtmessageboard-offonline-174522-deployment",
+            "UnauthRoleName": "amplify-rtmessageboard-offonline-174522-unauthRole",
+            "StackName": "amplify-rtmessageboard-offonline-174522",
+            "StackId": "arn:aws:cloudformation:eu-west-1:299136959586:stack/amplify-rtmessageboard-offonline-174522/fc854ab0-eba0-11ea-9f1c-02d3252bb0b8",
+            "AmplifyAppId": "debfwnnaa7sgo"
+        }
+    }
+}
